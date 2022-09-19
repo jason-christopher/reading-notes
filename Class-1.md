@@ -34,9 +34,9 @@
 
 * Input an image using `![Name of image](/file location)`
 
-![Pic](/Profile-Pic.jpeg)
+![Profile-Pic.jpeg](https://github.com/jason-christopher/reading-notes/blob/main/Profile%20Pic.jpeg?raw=true)
 
-I don't know why mine doesn't work. 
+* I don't know how to resize it yet... 
 
 ## Code
 
