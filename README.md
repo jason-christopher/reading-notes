@@ -5,11 +5,10 @@ My name is Jason Christopher and I live in Oklahoma City with my wife and 2 sons
 *Growth Mindset:* Being open, adaptable, and eager to change in order to improve your capabilities.
 
 *3 Reminders to Maintain Growth Mindset:*
-1. Don't 
-2.
-3.
+1. I won't be an expert in one week!
+2. I will fail, it's how I recover after failure.
+3. Never stop learning; the tech world is constantly changing!
 
 *GitHub Profile link:* https://github.com/jason-christopher
 
-
-Must hit **Commit Changes** at the bottom of the page. 
+Don't forget to hit **Commit Changes** at the bottom of the page!!!
