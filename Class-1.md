@@ -29,3 +29,30 @@
 
 * Start an unordered list using a `*`, `+`, or `-`
 * Like this
+
+## Images
+
+* Input an image using `![Name of image](/file location)`
+
+![Pic](/Profile-Pic.jpeg)
+
+I don't know why mine doesn't work. 
+
+## Code
+
+* Input code using backticks to make the text appear as `code`
+* If the text you want to denote as code includes one or more backticks, you can escape it by enclosing the text in double backticks (``code``)
+
+## Horizontal Rules
+
+* Create a horizontal line by using `***` or `---` on its own line 
+
+## Links
+
+* To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses
+* `[Google](https://www.google.com)`
+* [Google](https://www.google.com)
+* To quickly turn a URL or email address into a link, enclose it in angle brackets
+* `<https://www.google.com>`
+* <https://www.google.com>
+
