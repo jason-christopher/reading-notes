@@ -6,9 +6,7 @@ My name is Jason Christopher and I live in Oklahoma City with my wife and 2 sons
 
 *GitHub Profile link:* <https://github.com/jason-christopher>
 
-![Profile Pic](Profile-Pic.jpeg)
-
-<img src="https://user-images.githubusercontent.com/113613301/191090507-d03f9968-15c9-4f14-9ce9-97f7efa0dd89.jpeg" width=50%>
+![Profile-Pic.jpeg](https://github.com/jason-christopher/reading-notes/blob/main/Profile%20Pic.jpeg)
 
 ***
 
