@@ -1,1 +1,1 @@
-# Class 6 Notes
+# Class 6 - Activate Web Pages with JavaScript

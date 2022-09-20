@@ -1,1 +1,1 @@
-# Class 7 Notes
+# Class 7 - Programming with JavaScript

@@ -1,4 +1,4 @@
-# Class 3 Notes
+# Class 3 - Revisions and the Cloud
 
 ## What is Git?
 

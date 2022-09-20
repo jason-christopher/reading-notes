@@ -1,15 +1,19 @@
-# Code 102 Reading Notes
+# Code Fellows Reading Notes
 
-## Table of Contents
+## Code 102  - Table of Contents
 
-* [Class 1 Notes](Code-102/Class-1.md)
-* [Class 2 Notes](Code-102/Class-2.md)
-* [Class 3 Notes](Code-102/Class-3.md)
-* [Class 4 Notes](Code-102/Class-4.md)
-* [Class 5 Notes](Code-102/Class-5.md)
-* [Class 6 Notes](Code-102/Class-6.md)
-* [Class 7 Notes](Code-102/Class-7.md)
-* [Class 8 Notes](Code-102/Class-8.md)
+* [Class 1 - Learning Markdown](Code-102/Class-1.md)
+* [Class 2 - The Coder's Computer](Code-102/Class-2.md)
+* [Class 3 - Revisions and the Cloud](Code-102/Class-3.md)
+* [Class 4 - Structure Web Pages with HTML](Code-102/Class-4.md)
+* [Class 5 - Design Web Pages with CSS](Code-102/Class-5.md)
+* [Class 6 - Activate Web Pages with JavaScript](Code-102/Class-6.md)
+* [Class 7 - Programming with JavaScript](Code-102/Class-7.md)
+* [Class 8 - Operators and Loops](Code-102/Class-8.md)
+
+## Code 201 - Table of Contents
+
+* TBD
 
 ## About Me
 

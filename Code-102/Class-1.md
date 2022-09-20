@@ -1,4 +1,4 @@
-# Class 1 Notes
+# Class 1 - Learning Markdown
 
 ## Headings
 

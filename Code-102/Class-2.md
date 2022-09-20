@@ -1,4 +1,4 @@
-# Class 2 Notes
+# Class 2 - The Coder's Computer
 
 ## Files
 
