@@ -17,3 +17,4 @@
 * `cd [location]` - ***Change Directory*** to...change the directory we want to be in
     * `cd ..` - Use two periods to go back to the directory directly above the current location.
     * Use x+1 periods to go back x directories
+* `mv [file name] [file name]` - ***moves*** file from first location to second location. Second location can be a new location.
