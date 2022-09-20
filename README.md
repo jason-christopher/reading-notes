@@ -2,16 +2,16 @@
 
 ### Class Notes
 
-[Class 1 Notes](https://jason-christopher.github.io/reading-notes/Class-1)
-[Class 2 Notes](https://jason-christopher.github.io/reading-notes/Class-2)
-[Class 3 Notes](https://jason-christopher.github.io/reading-notes/Class-3)
-[Class 4 Notes](https://jason-christopher.github.io/reading-notes/Class-4)
-[Class 5 Notes](https://jason-christopher.github.io/reading-notes/Class-5)
-[Class 6 Notes](https://jason-christopher.github.io/reading-notes/Class-6)
-[Class 7 Notes](https://jason-christopher.github.io/reading-notes/Class-7)
-[Class 8 Notes](https://jason-christopher.github.io/reading-notes/Class-8)
-[Class 9 Notes](https://jason-christopher.github.io/reading-notes/Class-9)
-[Class 10 Notes](https://jason-christopher.github.io/reading-notes/Class-10)
+* [Class 1 Notes](https://jason-christopher.github.io/reading-notes/Class-1)
+* [Class 2 Notes](https://jason-christopher.github.io/reading-notes/Class-2)
+* [Class 3 Notes](https://jason-christopher.github.io/reading-notes/Class-3)
+* [Class 4 Notes](https://jason-christopher.github.io/reading-notes/Class-4)
+* [Class 5 Notes](https://jason-christopher.github.io/reading-notes/Class-5)
+* [Class 6 Notes](https://jason-christopher.github.io/reading-notes/Class-6)
+* [Class 7 Notes](https://jason-christopher.github.io/reading-notes/Class-7)
+* [Class 8 Notes](https://jason-christopher.github.io/reading-notes/Class-8)
+* [Class 9 Notes](https://jason-christopher.github.io/reading-notes/Class-9)
+* [Class 10 Notes](https://jason-christopher.github.io/reading-notes/Class-10)
 
 ### About Me 
 
