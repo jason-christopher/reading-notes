@@ -1,4 +1,4 @@
-# Class 1 Notes 
+# Class 1 Notes
 
 ## Headings
 
@@ -21,9 +21,9 @@
 
 ## Lists
 
-1. Start an ordered list using a number `1.` `2.` etc. 
+1. Start an ordered list using a number `1.` `2.` etc.
 2. Like this
-    1. And nest them with an ident 
+    1. And nest them with an ident
     2. Like this
 3. The numbers you use doesn't matter, Markdown will list them sequentially
 
@@ -36,7 +36,7 @@
 
 ![Profile-Pic.jpeg](https://github.com/jason-christopher/reading-notes/blob/main/Profile%20Pic.jpeg?raw=true)
 
-* I don't know how to resize it yet... 
+* I don't know how to resize it yet...
 
 ## Code
 
@@ -45,7 +45,7 @@
 
 ## Horizontal Rules
 
-* Create a horizontal line by using `***` or `---` on its own line 
+* Create a horizontal line by using `***` or `---` on its own line
 
 ## Links
 
@@ -55,4 +55,3 @@
 * To quickly turn a URL or email address into a link, enclose it in angle brackets
 * `<https://www.google.com>`
 * <https://www.google.com>
-
