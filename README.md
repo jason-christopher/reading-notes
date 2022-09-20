@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-* [Class 1 Notes](/Class-1.md)
-* [Class 2 Notes](/Class-2.md)
-* [Class 3 Notes](/Class-3.md)
-* [Class 4 Notes](/Class-4.md)
-* [Class 5 Notes](/Class-5.md)
-* [Class 6 Notes](/Class-6.md)
-* [Class 7 Notes](/Class-7.md)
-* [Class 8 Notes](/Class-8.md)
+* [Class 1 Notes](Code-102/Class-1.md)
+* [Class 2 Notes](Code-102/Class-2.md)
+* [Class 3 Notes](Code-102/Class-3.md)
+* [Class 4 Notes](Code-102/Class-4.md)
+* [Class 5 Notes](Code-102/Class-5.md)
+* [Class 6 Notes](Code-102/Class-6.md)
+* [Class 7 Notes](Code-102/Class-7.md)
+* [Class 8 Notes](Code-102/Class-8.md)
 
 ## About Me
 
