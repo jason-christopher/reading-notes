@@ -9,7 +9,7 @@
 ## How to Include JavaScript in My Code?
 
 * Internal - input JS into the HTML file using the `<script>` and `</script>` tags
-* External - create a separate JS file such as `scipt.js` and link it to the HTML file using: `<link rel="script" href="[file-name].js">`
+* External - create a separate JS file such as `scipt.js` and link it to the HTML file using: `<script src="[file-name].js">`
 
 ***
 
@@ -45,7 +45,7 @@ console.log("Hello World");
 
 ## Input
 
-* **prompt** - TThis will show a pop-up window with the text provided as the first parameter and with a textbox the user can fill in. When the user presses OK, the value in the text box will be returned by the `prompt()` function. Then, in this example we use the `document.write` method to update the HTML with the text. The textbox will be pre-filled with the content of the second parameter. This can be very useful if we would like to ask the user to edit some value. We can pre-fill the box with the old value.
+* **prompt** - This will show a pop-up window with the text provided as the first parameter and with a textbox the user can fill in. When the user presses OK, the value in the text box will be returned by the `prompt()` function. Then, in this example we use the `document.write` method to update the HTML with the text. The textbox will be pre-filled with the content of the second parameter. This can be very useful if we would like to ask the user to edit some value. We can pre-fill the box with the old value.
 
 ```
 <script>
