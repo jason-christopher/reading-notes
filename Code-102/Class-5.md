@@ -29,7 +29,7 @@
 ## CSS Color Property
 
 * The `color` property specifies the color of the ***text*** (not background or any other element).
-* `color` can be defined 3 ways:
+* `color` can be defined a few ways:
   1. **HEX** - `color: #92a8d1;`
   2. **RGB** - `color: rgb(201, 76, 76);`
   * Sets red, green, and blue values between 0-255
@@ -37,6 +37,15 @@
   * White would be `color: (255,255,255);`
   3. **RGBA** - `color: rgba(201, 76, 76, 0.6);`
   * Same as RGB, but adds ***opacity*** as the last value between 0-1
+  * 0 makes the text invisible
+  * 1 makes the text normal
+  4. **HSL** - `color: hsl(73, 50%, 75%);`
+  * Sets hue (0-360), saturation (%), and lightness (%)
+  * Hue of 0 is red, 120 is green, and 240 is blue
+  * Saturation of 0% means a shade of gray and 100% is the full color
+  * Lightness of 0% is black, and 100% is white
+  5. **HSLA** - `color: hsla(73, 50%, 75%, 0.7);`
+  * Same as HSL, but adds ***opacity*** as the last value between 0-1
   * 0 makes the text invisible
   * 1 makes the text normal
 
