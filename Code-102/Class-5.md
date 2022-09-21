@@ -9,9 +9,9 @@
 
 > `h1 {color: red; font-size: 5px;}`
 
-* **Selector** - The CSS rule that selects the HTML element. `h1` is the selector in the above example.
-* **Properties** - Characteristic to modify. `color` and `font-size` are the properties in the above example.
-* **Value** - (self explanatory). `red` and `5px` are the values in the above example.
+* **Selector** - The CSS rule that selects the HTML element, followed by curly brackets `{ }`. `h1` is the selector in the above example.
+* **Properties** - Characteristic to modify, followed by a colon `:`. `color` and `font-size` are the properties in the above example.
+* **Value** - (self explanatory), followed by a semi-colon `;`. `red` and `5px` are the values in the above example.
 
 ## Inserting CSS into Document
 
@@ -39,3 +39,8 @@
   * Same as RGB, but adds ***opacity*** as the last value between 0-1
   * 0 makes the text invisible
   * 1 makes the text normal
+
+## Reset CSS
+
+* The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, etc.
+* The reset styles given here are intentionally very generic.
