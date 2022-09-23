@@ -1,6 +1,6 @@
 # Class 1 - Learning Markdown
 
-## Headings
+## Headin
 
 * Headings can be identified using `#` through `######`
 * `#` is the largest heading while `######` is the smallest
