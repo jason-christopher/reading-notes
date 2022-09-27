@@ -1,6 +1,8 @@
 # Code Fellows Reading Notes
 
-## Code 102  - Table of Contents
+## Code 102 Reading Notes
+
+### Table of Contents
 
 * [Class 1 - Learning Markdown](Code-102/Class-1.md)
 * [Class 2 - The Coder's Computer](Code-102/Class-2.md)
@@ -11,7 +13,11 @@
 * [Class 7 - Programming with JavaScript](Code-102/Class-7.md)
 * [Class 8 - Operators and Loops](Code-102/Class-8.md)
 
-## Code 201 - Table of Contents
+***
+
+## Code 201 Reading Notes
+
+### Table of Contents
 
 * [Class 1 - ](Code-201/Class-1.md)
 * [Class 2 - ](Code-201/Class-2.md)
@@ -28,6 +34,8 @@
 * [Class 13 - ](Code-201/Class-13.md)
 * [Class 14 - ](Code-201/Class-14.md)
 * [Class 15 - ](Code-201/Class-15.md)
+
+***
 
 ## About Me
 
