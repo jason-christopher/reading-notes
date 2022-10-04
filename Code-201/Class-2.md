@@ -1,5 +1,7 @@
 # Class 2 - HTML, CSS, & JavaScript Review
 
+The reading today was important because it covered some HTML elements I haven't used before, it broke down the anatomy of CSS and its structure, and covered conditional statements and comparison operators in JavaScript. All of these items will be critical to understand moving forward. 
+
 ## Introduction to HTML
 
 1. Why is it important to use semantic elements in our HTML?  
