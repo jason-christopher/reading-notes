@@ -23,7 +23,7 @@
 * [Class 2 - HTML, CSS, & JavaScript Review](Code-201/Class-2.md)
 * [Class 3 - HTML Lists, Control Flow with JS, and the CSS Box Model](Code-201/Class-3.md)
 * [Class 4 - HTML Links, JS Functions, and Intro to CSS Layout](Code-201/Class-4.md)
-* [Class 5 - ](Code-201/Class-5.md)
+* [Class 5 - Images, Color, Text](Code-201/Class-5.md)
 * [Class 6 - ](Code-201/Class-6.md)
 * [Class 7 - ](Code-201/Class-7.md)
 * [Class 8 - ](Code-201/Class-8.md)
