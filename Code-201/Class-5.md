@@ -24,4 +24,4 @@
 4. What do `font-size`, `font-weight`, and `font-style` do to HTML text elements?
    * `font-size` changes the size of the text, `font-weight` changes the boldness of the text, and `font-style` can make the text italic or oblique.
 5. Describe two ways you could add spacing around the characters displayed in an `h1` element.
-   * `letter-spacing` will change the space around each character, and `line-height` will change the space betweens lines of text.
+   * `letter-spacing` will change the space around each character, and `line-height` will change the space between lines of text.
