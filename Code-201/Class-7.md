@@ -24,4 +24,4 @@
 ## Object Prototypes Using A Constructor
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience. *NOTE: This is a very common front end developer interview question*
-   * We would use a standard template when creating training documents that had default information that could be used for any training report, but could be modified to more better describe the student's performance. The template was a ***protoype*** and the instructor would ***inherit*** the default information, but had the option to modify portions.
+   * We would use a standard template when creating training documents that had default information that could be used for any training report, but could be modified to more better describe the student's performance. The template was a ***prototype*** and the instructor would ***inherit*** the default information, but had the option to modify portions.
