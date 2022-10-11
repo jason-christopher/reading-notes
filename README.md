@@ -25,7 +25,7 @@
 * [Class 4 - HTML Links, JS Functions, and Intro to CSS Layout](Code-201/Class-4.md)
 * [Class 5 - Images, Color, Text](Code-201/Class-5.md)
 * [Class 6 - Problem Domain, Objects, and the DOM](Code-201/Class-6.md)
-* [Class 7 - ](Code-201/Class-7.md)
+* [Class 7 - Object-Oriented Programming, HTML Tables](Code-201/Class-7.md)
 * [Class 8 - ](Code-201/Class-8.md)
 * [Class 9 - ](Code-201/Class-9.md)
 * [Class 10 - ](Code-201/Class-10.md)
