@@ -19,7 +19,7 @@
 1. What is a constructor and what are some advantages to using it?
    * A constructor is a function called using the `new` keyword and is used to create a new object, bind `this` to the new object, so you can refer to `this` in your constructor code, run the code in the constructor, and return the new object. <https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors>
 2. How does the term `this` differ when used in an object literal versus when used in a constructor?
-   * `this` can be used for multiple different variable names when using a constructor.
+   * `this` refers to the object that ***WILL*** be created when using a constructor.
 
 ## Object Prototypes Using A Constructor
 
