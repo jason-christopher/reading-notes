@@ -28,7 +28,7 @@
 * [Class 7 - Object-Oriented Programming, HTML Tables](Code-201/Class-7.md)
 * [Class 8 - CSS Layout](Code-201/Class-8.md)
 * [Class 9 - Forms and JS Events](Code-201/Class-9.md)
-* [Class 10 - ](Code-201/Class-10.md)
+* [Class 10 - Debugging](Code-201/Class-10.md)
 * [Class 11 - ](Code-201/Class-11.md)
 * [Class 12 - ](Code-201/Class-12.md)
 * [Class 13 - ](Code-201/Class-13.md)
