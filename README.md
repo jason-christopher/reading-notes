@@ -29,7 +29,7 @@
 * [Class 8 - CSS Layout](Code-201/Class-8.md)
 * [Class 9 - Forms and JS Events](Code-201/Class-9.md)
 * [Class 10 - Debugging](Code-201/Class-10.md)
-* [Class 11 - ](Code-201/Class-11.md)
+* [Class 11 - Audio, Video, Images](Code-201/Class-11.md)
 * [Class 12 - ](Code-201/Class-12.md)
 * [Class 13 - ](Code-201/Class-13.md)
 * [Class 14 - ](Code-201/Class-14.md)
