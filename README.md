@@ -31,7 +31,7 @@
 * [Class 10 - Debugging](Code-201/Class-10.md)
 * [Class 11 - Audio, Video, Images](Code-201/Class-11.md)
 * [Class 12 - Canvas and Chart.js](Code-201/Class-12.md)
-* [Class 13 - ](Code-201/Class-13.md)
+* [Class 13 - Local Storage](Code-201/Class-13.md)
 * [Class 14 - ](Code-201/Class-14.md)
 * [Class 15 - ](Code-201/Class-15.md)
 
