@@ -34,6 +34,7 @@
 * [Class 13 - Local Storage](Code-201/Class-13.md)
 * [Class 14 - Transforms, Transitions, & Animations](Code-201/Class-14.md)
 * [Class 15 - ](Code-201/Class-15.md)
+* [Psychological Safety](Code-201/Psychological-Safety.md)
 
 ***
 
