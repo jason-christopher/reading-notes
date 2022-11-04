@@ -42,7 +42,7 @@
 
 ### Table of Contents
 
-* [Class 1 - ](Code-301/Class-1.md)
+* [Class 1 - Introduction to React and Components](Code-301/Class-1.md)
 * [Class 2 - ](Code-301/Class-2.md)
 * [Class 3 - ](Code-301/Class-3.md)
 * [Class 4 - ](Code-301/Class-4.md)
