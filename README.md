@@ -33,7 +33,7 @@
 * [Class 12 - Canvas and Chart.js](Code-201/Class-12.md)
 * [Class 13 - Local Storage](Code-201/Class-13.md)
 * [Class 14 - Transforms, Transitions, & Animations](Code-201/Class-14.md)
-* [Class 15 - ](Code-201/Class-15.md)
+* [Class 15 - Psychological Safety](Code-201/Class-15.md)
 * [Psychological Safety](Code-201/Psychological-Safety.md)
 
 ***
@@ -48,7 +48,7 @@
 * [Class 4 - React and Forms](Code-301/Class-4.md)
 * [Class 5 - Putting It All Together](Code-301/Class-5.md)
 * [Class 6 - NODE.JS](Code-301/Class-6.md)
-* [Class 7 - ](Code-301/Class-7.md)
+* [Class 7 - REST](Code-301/Class-7.md)
 * [Class 8 - ](Code-301/Class-8.md)
 * [Class 9 - ](Code-301/Class-9.md)
 * [Class 10 - ](Code-301/Class-10.md)
