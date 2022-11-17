@@ -50,7 +50,7 @@
 * [Class 6 - NODE.JS](Code-301/Class-6.md)
 * [Class 7 - REST](Code-301/Class-7.md)
 * [Class 8 - APIs](Code-301/Class-8.md)
-* [Class 9 - ](Code-301/Class-9.md)
+* [Class 9 - Functional Programming](Code-301/Class-9.md)
 * [Class 10 - ](Code-301/Class-10.md)
 * [Class 11 - ](Code-301/Class-11.md)
 * [Class 12 - ](Code-301/Class-12.md)
