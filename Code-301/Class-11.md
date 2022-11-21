@@ -6,7 +6,7 @@ Fill in the chart below with five differences between SQL and NoSQL databases:
 
 | SQL         | NoSQL       |
 | ----------- | ----------- |
-| Relational Databases| Npn-Relational Databases|
+| Relational Databases| Non-Relational Databases|
 | Table-Based Databases| Document-Based Databases|
 | Relational Databases| Non-Relational Databases|
 | Pre-defined Schema| Dynamic Schema for Unstructured Data|
