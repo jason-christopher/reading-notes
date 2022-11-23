@@ -54,7 +54,7 @@
 * [Class 10 - In Memory Storage](Code-301/Class-10.md)
 * [Class 11 - MongoDB and Mongoose](Code-301/Class-11.md)
 * [Class 12 - CRUD](Code-301/Class-12.md)
-* [Class 13 - ](Code-301/Class-13.md)
+* [Class 13 - More CRUD](Code-301/Class-13.md)
 * [Class 14 - ](Code-301/Class-14.md)
 * [Class 15 - ](Code-301/Class-15.md)
 
