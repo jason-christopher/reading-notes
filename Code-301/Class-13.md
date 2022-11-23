@@ -14,6 +14,6 @@
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
    1. Install and import required items
    2. Designate Port and set up Routes
-   3. Connect separate module for desired function
+   3. Develop schema
    4. Create functions that accomplish CRUD
    5. Export to server.js and ensure functionality
