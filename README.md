@@ -56,7 +56,7 @@
 * [Class 12 - CRUD](Code-301/Class-12.md)
 * [Class 13 - More CRUD](Code-301/Class-13.md)
 * [Class 14 - Diversity & Inclusion in the Tech Industry](Code-301/Class-14.md)
-* [Class 15 - ](Code-301/Class-15.md)
+* [Class 15 - Authentication](Code-301/Class-15.md)
 
 ***
 
