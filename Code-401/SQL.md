@@ -13,12 +13,12 @@
 ## Lesson 3
 
 * Used WHERE with different operators like `=`, `LIKE`, `%`, `_`, and `IN`.  
-![Lesson 3](./images/SQL3.png)
+![Lesson 3](../images/SQL3.png)
 
 ## Lesson 4
 
 * Used DISTINCT, ORDER BY (with ASC & DESC), LIMIT, and OFFSET to display desired items.  
-![Lesson 4](./images/SQL4.png)
+![Lesson 4](../images/SQL4.png)
 
 ## Lesson 5
 
