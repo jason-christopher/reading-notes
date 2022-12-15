@@ -3,22 +3,22 @@
 ## Lesson 1
 
 * Used SELECT and FROM to search for one or multiple columns in a table.
-![Lesson 1](/images/SQL1.png)
+![Lesson 1](images/SQL1.png)
 
 ## Lesson 2
 
 * Used WHERE to set a conditional statement.
-![Lesson 2](/images/SQL2.png)
+![Lesson 2](images/SQL2.png)
 
 ## Lesson 3
 
 * Used WHERE with different operators like `=`, `LIKE`, `%`, `_`, and `IN`.
-![Lesson 3](/images/SQL3.png)
+![Lesson 3](./images/SQL3.png)
 
 ## Lesson 4
 
 * Used DISTINCT, ORDER BY (with ASC & DESC), LIMIT, and OFFSET to display desired items.
-![Lesson 4](/images/SQL4.png)
+![Lesson 4](./images/SQL4.png)
 
 ## Lesson 5
 
@@ -38,7 +38,7 @@
 ## Lesson 14
 
 * Updated a table by changing items using UPDATE and SET.
-![Lesson 14](/images/SQL14.png)
+![Lesson 14](./images/SQL14.png)
 
 ## Lesson 15
 
