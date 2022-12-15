@@ -2,32 +2,32 @@
 
 ## Lesson 1
 
-* Used SELECT and FROM to search for one or multiple columns in a table.
+* Used SELECT and FROM to search for one or multiple columns in a table.  
 ![Lesson 1](images/SQL1.png)
 
 ## Lesson 2
 
-* Used WHERE to set a conditional statement.
+* Used WHERE to set a conditional statement.  
 ![Lesson 2](images/SQL2.png)
 
 ## Lesson 3
 
-* Used WHERE with different operators like `=`, `LIKE`, `%`, `_`, and `IN`.
+* Used WHERE with different operators like `=`, `LIKE`, `%`, `_`, and `IN`.  
 ![Lesson 3](./images/SQL3.png)
 
 ## Lesson 4
 
-* Used DISTINCT, ORDER BY (with ASC & DESC), LIMIT, and OFFSET to display desired items.
+* Used DISTINCT, ORDER BY (with ASC & DESC), LIMIT, and OFFSET to display desired items.  
 ![Lesson 4](./images/SQL4.png)
 
 ## Lesson 5
 
-* An extension of Lesson 4 using conditional statements as well.
+* An extension of Lesson 4 using conditional statements as well.  
 ![Lesson 5](/images/SQL5.png)
 
 ## Lesson 6
 
-* Joined multiple tables using INNER JOIN and ON.
+* Joined multiple tables using INNER JOIN and ON.  
 ![Lesson 6](/images/SQL6.png)
 
 ## Lesson 13
