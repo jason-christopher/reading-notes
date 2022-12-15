@@ -1,1 +1,9 @@
 # Growth Mindset
+
+## Emotional Intelligence
+
+* When it comes to emotional self-awareness, it's much easier to recognize my emotional state after the fact, but sometimes I don't recognize how my current emotional state affects my decisions. For self-management, I'd like to think I stay composed in situations where I feel frustrated and don't show my emotions. But to be honest, I've noticed as I get older, this is harder and I tend to be a little sarcastic. Self-awareness ties into this, so I need to be more aware of how I'm feeling emotionally before I lose composure. With social awareness, I actually feel I can gauge others' non-verbal and verbal reactions to myself and others to understand how they are feeling. Lastly, for relationship management, I think that I work very well with others because I'm a good listener and can understand other points of views when I don't necessarily believe in those points of views myself. I could work on my persuasion skills because I feel like I compromise a lot to make others happy.
+
+## Reflection on Bias
+
+* Between the military and previous Code Fellows pre-work, I've done a few of these bias surveys. It's an important concept and worth having a refresher lesson on once in a while. We all have bias...and that's ok, just so long as we are aware of the bias and attempt to mitigate it through purposeful actions. Bias can be useful in some cases, but in the workplace it is beneficial to be open to differing ideas and coworkers' opinions. Seeing a different view on a situation can help you grow and possibly open your eyes to a new way of looking at that situation so you can better react to it. But listening and hearing different viewpoints isn't always enough; we should also try to truly understand others' points of views and ask questions if we don't understand. 

@@ -66,6 +66,7 @@
 
 * [SQL Practice](Code-401/SQL.md)
 * [Command Line Practice](Code-401/CommandLine.md)
+* [Growth Mindset](GrowthMindset.md)
 * [Class 1 - ](Code-401/Class01.md)
 * [Class 2 - ](Code-401/Class02.md)
 * [Class 3 - ](Code-401/Class03.md)
@@ -86,12 +87,6 @@
 * [Class 18 - ](Code-401/Class18.md)
 * [Class 19 - ](Code-401/Class19.md)
 * [Class 20 - ](Code-401/Class20.md)
-
-***
-
-## Growth Mindset
-
-* [Growth Mindset Page](GrowthMindset.md)
 
 ***
 
