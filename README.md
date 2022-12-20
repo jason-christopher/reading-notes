@@ -67,6 +67,7 @@
 * [SQL Practice](Code-401/SQL.md)
 * [Command Line Practice](Code-401/CommandLine.md)
 * [Growth Mindset](GrowthMindset.md)
+* [Data Structure and Algorithms](DSA.md)
 * [Engineering Readings](Engineering.md)
 * [Class 1 - ](Code-401/Class01.md)
 * [Class 2 - ](Code-401/Class02.md)
