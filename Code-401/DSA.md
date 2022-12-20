@@ -88,7 +88,7 @@
 2. How can we ensure that we’ll avoid an infinite recursive call stack?
    * A Base Case to exit the loop
 
-Sources:
-<https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42>
-<https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms>
+Sources:  
+<https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42>  
+<https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms>  
 <https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms>
