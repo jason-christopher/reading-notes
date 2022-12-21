@@ -71,7 +71,7 @@
 * [Engineering Readings](Engineering.md)
 * [Class 1 - Pain & Suffering and Big O Notation](Code-401/Class01.md)
 * [Class 2 - Testing and Modules](Code-401/Class02.md)
-* [Class 3 - ](Code-401/Class03.md)
+* [Class 3 - FileIO & Exceptions](Code-401/Class03.md)
 * [Class 4 - ](Code-401/Class04.md)
 * [Class 5 - ](Code-401/Class05.md)
 * [Class 6 - ](Code-401/Class06.md)
