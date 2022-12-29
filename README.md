@@ -75,7 +75,7 @@
 * [Class 4 - Classes & Objects, Thinking Recursively, and Pytest Fixtures & Coverage](Code-401/Class04.md)
 * [Class 5 - Linked Lists](Code-401/Class05.md)
 * [Class 6 - ](Code-401/Class06.md)
-* [Class 7 - ](Code-401/Class07.md)
+* [Class 7 - Python Scope](Code-401/Class07.md)
 * [Class 8 - ](Code-401/Class08.md)
 * [Class 9 - ](Code-401/Class09.md)
 * [Class 10 - ](Code-401/Class10.md)
