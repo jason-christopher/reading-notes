@@ -78,7 +78,7 @@
 * [Class 7 - Python Scope](Code-401/Class07.md)
 * [Class 8 - List Comprehensions](Code-401/Class08.md)
 * [Class 9 - ](Code-401/Class09.md)
-* [Class 10 - ](Code-401/Class10.md)
+* [Class 10 - Stacks and Queues](Code-401/Class10.md)
 * [Class 11 - ](Code-401/Class11.md)
 * [Class 12 - ](Code-401/Class12.md)
 * [Class 13 - ](Code-401/Class13.md)
