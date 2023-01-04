@@ -81,7 +81,7 @@
 * [Class 10 - Stacks and Queues](Code-401/Class10.md)
 * [Class 11 - Data Analysis](Code-401/Class11.md)
 * [Class 12 - Pandas](Code-401/Class12.md)
-* [Class 13 - ](Code-401/Class13.md)
+* [Class 13 - Linear Regression in Python](Code-401/Class13.md)
 * [Class 14 - ](Code-401/Class14.md)
 * [Class 15 - ](Code-401/Class15.md)
 * [Class 16 - ](Code-401/Class16.md)
