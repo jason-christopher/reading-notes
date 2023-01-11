@@ -86,7 +86,7 @@
 * [Class 15 - Trees](Code-401/Class15.md)
 * [Class 16 - Serverless Functions](Code-401/Class16.md)
 * [Class 17 - Web Scraping](Code-401/Class17.md)
-* [Class 18 - ](Code-401/Class18.md)
+* [Class 18 - Encryption, Decryption & Hacking](Code-401/Class18.md)
 * [Class 19 - ](Code-401/Class19.md)
 * [Class 20 - ](Code-401/Class20.md)
 
