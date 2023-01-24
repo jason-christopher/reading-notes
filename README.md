@@ -89,6 +89,7 @@
 * [Class 18 - Encryption, Decryption & Hacking](Code-401/Class18.md)
 * [Class 19 - Regular Expressions & shutil](Code-401/Class19.md)
 * [Class 26 - Django](Code-401/Class26.md)
+* [Class 27 - Django Models](Code-401/Class27.md)
 
 ***
 
