@@ -175,3 +175,7 @@ The Django admin application can use your models to automatically build a site a
 * Create a number of these records for each of your books. Set the status as ***Available*** for at least some records and ***On loan*** for others. If the status is **not** ***Available***, then also set a future ***Due back*** date.
 
 Source: <https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#registering_models>
+
+## Things I want to know more about
+
+* But why? What does this do that other tools don't?
