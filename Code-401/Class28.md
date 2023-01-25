@@ -58,3 +58,9 @@ Based on the diagram above, the main things that Django's form handling does are
 ## Validation
 
 * Django provides numerous places where you can validate your data. The easiest way to validate a single field is to override the method `clean_<fieldname>()` for the field you want to check.
+
+Source: <https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms>
+
+## Things I Want To Know More About
+
+* I'll do more research on Django forms before class.
