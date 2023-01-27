@@ -92,6 +92,7 @@
 * [Class 27 - Django Models](Code-401/Class27.md)
 * [Class 28 - Django Forms](Code-401/Class28.md)
 * [Class 29 - Django Custom User](Code-401/Class29.md)
+* [Class 30 - Hash Tables](Code-401/Class30.md)
 
 ***
 
