@@ -106,3 +106,7 @@ Hash maps do this to read value:
 * `has()` - The `has()` method will accept a key, and return a bool on if that key exists inside the hashtable. The best way to do this is to have the contains call the `hash()` method and check the hashtable if the key exists in the table given the index returned.
 * `keys()` - The `keys()` method returns a collection (array) of unique hash keys.
 * `hash()` - The `hash()` method will accept a key as a string, conduct the hash, and then return the index of the array where the key/value should be placed.
+
+## What I Want to Know More About?
+
+* I'm excited to try these!
