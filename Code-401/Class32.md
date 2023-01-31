@@ -98,3 +98,9 @@
 * Note that `DjangoObjectPermissions` does not require the django-guardian package, and should support other object-level backends equally well.
 * As with DjangoModelPermissions you can use custom model permissions by overriding `DjangoObjectPermissions` and setting the `.perms_map` property.
 * **Note**: If you need object level `view` permissions for `GET`, `HEAD` and `OPTIONS` requests and are using django-guardian for your object-level permissions backend, you'll want to consider using the `DjangoObjectPermissionsFilter` class provided by the `djangorestframework-guardian` package. It ensures that list endpoints only return results including objects for which the user has appropriate view permissions.
+
+Source: <https://www.django-rest-framework.org/api-guide/permissions/>
+
+## Things I want to know more about
+
+* Examples of each of these options.
