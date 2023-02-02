@@ -96,6 +96,7 @@
 * [Class 31 - Django REST Framework & Docker](Code-401/Class31.md)
 * [Class 32 - Django Permissions](Code-401/Class32.md)
 * [Class 33 - Authentication & Production Server](Code-401/Class33.md)
+* [Class 34 - API Deployment](Code-401/Class34.md)
 
 ***
 
