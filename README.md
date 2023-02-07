@@ -98,6 +98,7 @@
 * [Class 33 - Authentication & Production Server](Code-401/Class33.md)
 * [Class 34 - API Deployment](Code-401/Class34.md)
 * [Class 35 - Graphs](Code-401/Class35.md)
+* [Class 36 - DSA Review](Code-401/Class36.md)
 
 ***
 
