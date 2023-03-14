@@ -119,7 +119,7 @@ Source: <https://wsvincent.com/beginners-guide-to-docker/>
 ### Templates
 
 * The final step is to create our template file that controls the layout on the actual web page. We have already specified its name as `book_list.html` in our view. There are two options for its location: by default the Django template loader will look for templates within our `books` app in the following location: `books/templates/books/book_list.html`. We could also create a separate, project-level templates directory instead and update our `django_project/settings.py` file to point there.
-* Django ships with a ***template language*** that allows for basic logic. Here we use the `for` tag to loop over all available books. Template tags must be included within opening/closing brackets and parentheses. So the format is always `{% for ... %}` and then we must close our loop later with `{% endfor %}`.
+<!-- * Django ships with a ***template language*** that allows for basic logic. Here we use the `for` tag to loop over all available books. Template tags must be included within opening/closing brackets and parentheses. So the format is always `{% for ... %}` and then we must close our loop later with `{% endfor %}`. -->
 
 Source: <https://djangoforapis.com/library-website-and-api/>
 
