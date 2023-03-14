@@ -50,6 +50,7 @@ df_students = pd.DataFrame({'Name': ['Dan', 'Joann', 'Pedro', 'Rosie', 'Ethan', 
   df_students[df_students['Name']=='Aisha']
   df_students.query('Name=="Aisha"')
   df_students[df_students.Name == 'Aisha']
+  ```
 
 In many real-world scenarios, data is loaded from sources such as files. The DataFrame's `read_csv` method is used to load data from text files. 
 
