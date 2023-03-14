@@ -105,6 +105,10 @@
 
 * Module 1 - Create machine learning models
   * [Module 1-1 Explore and analyze data with Python](Microsoft/Data_Scientist/Module1-1.md)
+  * [Module 1-2 Train and evaluate regression models](Microsoft/Data_Scientist/Module1-2.md)
+  * [Module 1-3 Train and evaluate classification models](Microsoft/Data_Scientist/Module1-3.md)
+  * [Module 1-4 Train and evaluate clustering models](Microsoft/Data_Scientist/Module1-4.md)
+  * [Module 1-5 Train and evaluate deep learning models](Microsoft/Data_Scientist/Module1-5.md)
 
 ***
 
