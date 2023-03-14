@@ -101,6 +101,11 @@
 * [Class 36 - DSA Review](Code-401/Class36.md)
 * [Class 39 - React Context](Code-401/Class39.md)
 
+## Microsoft Data Scientist Certification
+
+* Module 1 - Create machine learning models
+  * [Module 1-1 Explore and analyze data with Python](Microsoft/Data_Scientist/Module1-1.md)
+
 ***
 
 ## About Me
