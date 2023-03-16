@@ -109,6 +109,11 @@
   * [Module 1-3 Train and evaluate classification models](Microsoft/Data_Scientist/Module1-3.md)
   * [Module 1-4 Train and evaluate clustering models](Microsoft/Data_Scientist/Module1-4.md)
   * [Module 1-5 Train and evaluate deep learning models](Microsoft/Data_Scientist/Module1-5.md)
+* Module 2 - Microsoft Azure AI Fundamentals: Explore visual tools for machine learning
+  * [Module 2-1 Use Automated Machine Learning in Azure Machine Learning](Microsoft/Data_Scientist/Module2-1.md)
+  * [Module 2-2 Create a regression model with Azure Machine Learning designer](Microsoft/Data_Scientist/Module2-2.md)
+  * [Module 2-3 Create a classification model with Azure Machine Learning designer](Microsoft/Data_Scientist/Module2-3.md)
+  * [Module 2-4 Create a clustering model with Azure Machine Learning designer](Microsoft/Data_Scientist/Module2-4.md)
 
 ***
 
