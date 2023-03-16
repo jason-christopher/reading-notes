@@ -4,13 +4,13 @@
 
 Regression is an example of a **supervised** machine learning technique in which you train a model using data that includes both the **features** and known values for the **label**, so that the model learns to fit the feature combinations to the label. Then, after training has been completed, you can use the trained model to predict labels for new items for which the label is unknown.
 
-### Scenarios for regression machine learning models
-
 A few regression machine learning scenarios are:
 
 * Using characteristics of houses, such as square footage and number of rooms, to predict home prices.
 * Using characteristics of farm conditions, such as weather and soil quality, to predict crop yield.
 * Using characteristics of a past campaign, such as advertising logs, to predict future advertisement clicks.
+
+***
 
 ### What is Azure Machine Learning designer?
 
@@ -64,4 +64,4 @@ In this module, you learned how to:
 * Use a regression model for inferencing.
 * Deploy a regression model as a service.
 
-Source: Source: [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/create-regression-model-azure-machine-learning-designer/)
+Source: [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/create-regression-model-azure-machine-learning-designer/)

@@ -114,6 +114,22 @@
   * [Module 2-2 Create a regression model with Azure Machine Learning designer](Microsoft/Data_Scientist/Module2-2.md)
   * [Module 2-3 Create a classification model with Azure Machine Learning designer](Microsoft/Data_Scientist/Module2-3.md)
   * [Module 2-4 Create a clustering model with Azure Machine Learning designer](Microsoft/Data_Scientist/Module2-4.md)
+* Module 3 - Build and operate machine learning solutions with Azure Machine Learning
+  * [Module 3-1 Introduction to the Azure Machine Learning SDK](Microsoft/Data_Scientist/Module3-1.md)
+  * [Module 3-2 Train a machine learning model with Azure Machine Learning](Microsoft/Data_Scientist/Module3-2.md)
+  * [Module 3-3 Work with Data in Azure Machine Learning](Microsoft/Data_Scientist/Module3-3.md)
+  * [Module 3-4 Work with Compute in Azure Machine Learning](Microsoft/Data_Scientist/Module3-4.md)
+  * [Module 3-5 Orchestrate machine learning with pipelines](Microsoft/Data_Scientist/Module3-5.md)
+  * [Module 3-6 Deploy real-time machine learning services with Azure Machine Learning](Microsoft/Data_Scientist/Module3-6.md)
+  * [Module 3-7 Deploy batch inference pipelines with Azure Machine Learning](Microsoft/Data_Scientist/Module3-7.md)
+  * [Module 3-8 Tune hyperparameters with Azure Machine Learning](Microsoft/Data_Scientist/Module3-8.md)
+  * [Module 3-9 Automate machine learning model selection with Azure Machine Learning](Microsoft/Data_Scientist/Module3-9.md)
+  * [Module 3-10 Explore differential privacy](Microsoft/Data_Scientist/Module3-10.md)
+  * [Module 3-11 Explain machine learning models with Azure Machine Learning](Microsoft/Data_Scientist/Module3-11.md)
+  * [Module 3-12 Detect and mitigate unfairness in models with Azure Machine Learning](Microsoft/Data_Scientist/Module3-12.md)
+  * [Module 3-13 Monitor models with Azure Machine Learning](Microsoft/Data_Scientist/Module3-13.md)
+  * [Module 3-14 Monitor data drift with Azure Machine Learning](Microsoft/Data_Scientist/Module3-14.md)
+  * [Module 3-15 Explore security concepts in Azure Machine Learning](Microsoft/Data_Scientist/Module3-15.md)
 
 ***
 

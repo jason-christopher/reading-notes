@@ -69,4 +69,4 @@ In this module, you learned how to:
 * Understand Azure Machine Learning capabilities.
 * Use automated machine learning in Azure Machine Learning studio to train and deploy a predictive model.
 
-Source: Source: [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/)
+Source: [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/)
