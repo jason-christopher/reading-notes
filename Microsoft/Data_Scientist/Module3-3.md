@@ -251,4 +251,9 @@ Just as with a **Tabular** dataset, there are two ways you can pass a **file** d
 
 ### Summary
 
+In this module, you learned how to:
+
+* Create and use datastores.
+* Create and use datasets.
+
 Source: [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-with-data-in-aml/)
