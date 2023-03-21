@@ -122,7 +122,7 @@
   * [Module 3-5 Orchestrate machine learning with pipelines](Microsoft/Data_Scientist/Module3-5.md)
   * [Module 3-6 Deploy real-time machine learning services with Azure Machine Learning](Microsoft/Data_Scientist/Module3-6.md)
   * [Module 3-7 Deploy batch inference pipelines with Azure Machine Learning](Microsoft/Data_Scientist/Module3-7.md)
-  * [Module 3-8 Tune hyperparameters with Azure Machine Learning](Microsoft/Data_Scientist/Module3-8.md)
+  * [Module 3-8 Tune hyper parameters with Azure Machine Learning](Microsoft/Data_Scientist/Module3-8.md)
   * [Module 3-9 Automate machine learning model selection with Azure Machine Learning](Microsoft/Data_Scientist/Module3-9.md)
   * [Module 3-10 Explore differential privacy](Microsoft/Data_Scientist/Module3-10.md)
   * [Module 3-11 Explain machine learning models with Azure Machine Learning](Microsoft/Data_Scientist/Module3-11.md)
