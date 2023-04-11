@@ -134,6 +134,7 @@
 ## Machine Learning Notes (Stanford Lecture)
 
 * [Linear Regression, Gradient Descent, Batch Gradient Descent, and Stochastic Gradient Descent](Stanford-Lecture/Lecture2.md)
+* [Locally Weighted Regression, Probabilistic Interpretation, Logistic Regression, and Newton's Method](Stanford-Lecture/Lecture3.md)
 
 ***
 
