@@ -131,6 +131,10 @@
   * [Module 3-14 Monitor data drift with Azure Machine Learning](Microsoft/Data_Scientist/Module3-14.md)
   * [Module 3-15 Explore security concepts in Azure Machine Learning](Microsoft/Data_Scientist/Module3-15.md)
 
+## Machine Learning Notes (Stanford Lecture)
+
+* [Linear Regression, Gradient Descent, Batch Gradient Descent, and Stochastic Gradient Descent](Stanford-Lecture/Lecture2)
+
 ***
 
 ## About Me
