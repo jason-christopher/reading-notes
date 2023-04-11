@@ -133,7 +133,7 @@
 
 ## Machine Learning Notes (Stanford Lecture)
 
-* [Linear Regression, Gradient Descent, Batch Gradient Descent, and Stochastic Gradient Descent](Stanford-Lecture/Lecture2)
+* [Linear Regression, Gradient Descent, Batch Gradient Descent, and Stochastic Gradient Descent](Stanford-Lecture/Lecture2.md)
 
 ***
 
