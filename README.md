@@ -136,6 +136,15 @@
 * [Linear Regression, Gradient Descent, Batch Gradient Descent, and Stochastic Gradient Descent](Stanford-Lecture/Lecture2.md)
 * [Locally Weighted Regression, Probabilistic Interpretation, Logistic Regression, and Newton's Method](Stanford-Lecture/Lecture3.md)
 
+## Data Science for Business
+
+* [Chapter 1 - Data Mining and Data-Analytic Thinking](DataScienceBusiness/Chapter1.md)
+* [Chapter 2 - Business Problems and Data Science Solutions](DataScienceBusiness/Chapter2.md)
+* [Chapter 3 - Introduction to Predictive Modeling: From Correlation to Supervised Segmentation](DataScienceBusiness/Chapter3.md)
+* [Chapter 4 - Fitting a Model to Data](DataScienceBusiness/Chapter4.md)
+* [Chapter 5 - Overfitting and Its Avoidance](DataScienceBusiness/Chapter5.md)
+* [Chapter 6 - Similarity, Neighbors, and Clusters](DataScienceBusiness/Chapter6.md)
+
 ***
 
 ## About Me
