@@ -2,8 +2,6 @@
 
 ## Code 102 Reading Notes
 
-### Table of Contents
-
 * [Class 1 - Learning Markdown](Code-102/Class-1.md)
 * [Class 2 - The Coder's Computer](Code-102/Class-2.md)
 * [Class 3 - Revisions and the Cloud](Code-102/Class-3.md)
@@ -16,8 +14,6 @@
 ***
 
 ## Code 201 Reading Notes
-
-### Table of Contents
 
 * [Class 1 - HTML, CSS, & JavaScript Background](Code-201/Class-1.md)
 * [Class 2 - HTML, CSS, & JavaScript Review](Code-201/Class-2.md)
@@ -40,8 +36,6 @@
 
 ## Code 301 Reading Notes
 
-### Table of Contents
-
 * [Class 1 - Introduction to React and Components](Code-301/Class-1.md)
 * [Class 2 - State and Props](Code-301/Class-2.md)
 * [Class 3 - Passing Functions as Props](Code-301/Class-3.md)
@@ -61,8 +55,6 @@
 ***
 
 ## Code 401 Reading Notes
-
-### Table of Contents
 
 * [SQL Practice](Code-401/SQL.md)
 * [Command Line Practice](Code-401/CommandLine.md)
