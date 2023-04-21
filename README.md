@@ -137,6 +137,16 @@
 * [Chapter 5 - Overfitting and Its Avoidance](DataScienceBusiness/Chapter5.md)
 * [Chapter 6 - Similarity, Neighbors, and Clusters](DataScienceBusiness/Chapter6.md)
 
+## Practical Statistics for Data Scientists
+
+* [Chapter 1 - Exploratory Data Analysis](PracticalStatistics/Chapter1.md)
+* [Chapter 2 - ](PracticalStatistics/Chapter2.md)
+* [Chapter 3 - ](PracticalStatistics/Chapter3.md)
+* [Chapter 4 - ](PracticalStatistics/Chapter4.md)
+* [Chapter 5 - ](PracticalStatistics/Chapter5.md)
+* [Chapter 6 - ](PracticalStatistics/Chapter6.md)
+* [Chapter 7 - ](PracticalStatistics/Chapter7.md)
+
 ***
 
 ## About Me
