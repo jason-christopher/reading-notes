@@ -8,6 +8,8 @@ A **random sample** is a sample taken from a population where each member of the
 
 To avoid sample bias, data scientists should strive for random sampling, be cautious about generalizing results from convenience samples, and consider using techniques to adjust for known biases.
 
+* **Example:** When conducting a political poll, it is crucial to obtain a random sample of the population to avoid sample bias. If the sample is biased, the poll results may not accurately reflect the opinions of the broader population, leading to incorrect predictions about election outcomes.
+
 ## Selection Bias
 
 **Selection bias** occurs when the sample is systematically different from the population due to the way it is selected. Some common types of selection bias include:
@@ -16,6 +18,8 @@ To avoid sample bias, data scientists should strive for random sampling, be caut
 - **Survivorship bias**: When data is only available for individuals who "survived" some process or selection criteria, causing a distortion in the sample.
 
 Data scientists must be aware of the potential for selection bias and carefully design their sampling strategies to minimize its impact.
+
+* **Example:** In medical research, selection bias can occur when patients who volunteer for a clinical trial have characteristics that make them systematically different from the general patient population. This can lead to biased estimates of treatment effects and reduced generalizability of the study results.
 
 ## Sampling Distribution of a Statistic
 
@@ -39,11 +43,15 @@ for _ in range(n_samples):
     sample_means.append(sample_mean)
 ```
 
+* **Example:** Marketing analysts might want to estimate the average time users spend on their website. By collecting random samples of user session durations and calculating the sampling distribution of the sample mean, they can better understand the variability in the average session duration and make more informed decisions about website improvements.
+
 ## Central Limit Theorem
 
 The **Central Limit Theorem (CLT)** is a fundamental concept in statistics that states that, for large sample sizes, the sampling distribution of the sample mean approaches a normal distribution with the same mean as the population and a standard deviation equal to the population standard deviation divided by the square root of the sample size.
 
 The CLT is important because it allows us to make inferences about the population mean using the normal distribution, even if the population distribution is not normal. It also helps us understand the concept of **standard error**.
+
+* **Example:** In quality control, manufacturers may want to ensure that their products meet certain specifications. The CLT can be applied to calculate control limits for process control charts, which help identify when a production process is out of control and requires intervention.
 
 ## Standard Error
 
@@ -67,6 +75,8 @@ sample_std_dev = np.std(sample, ddof=1)  # ddof=1 for unbiased estimator
 standard_error = sample_std_dev / np.sqrt(len(sample))
 ```
 
+* **Example:** In finance, analysts may want to estimate the average return of a stock. By calculating the standard error of the sample mean, they can assess the precision of their estimate and make better-informed investment decisions.
+
 ## Bootstrap
 
 The **bootstrap** is a powerful resampling technique used to estimate the sampling distribution of a statistic. By repeatedly drawing random samples with replacement from the original sample, the bootstrap generates many "bootstrap samples" which can be used to compute the statistic of interest. This results in an empirical distribution of the statistic, allowing us to estimate its standard error, confidence intervals, and other characteristics.
@@ -83,6 +93,8 @@ sample = np.random.normal(loc=0, scale=1, size=100)
 bootstrap_means = [np.mean(bootstrap_sample(sample, len(sample))) for _ in range(1000)]
 bootstrap_standard_error = np.std(bootstrap_means, ddof=1)
 ```
+
+* **Example:** Ecologists studying species diversity in a forest may have limited data due to the difficulty of data collection. By using the bootstrap method, they can estimate the sampling distribution of the species richness index and obtain confidence intervals to better understand the true species diversity in the forest.
 
 ## Confidence Intervals
 
@@ -112,6 +124,8 @@ confidence_interval = (sample_mean - critical_value * standard_error,
                        sample_mean + critical_value * standard_error)
 ```
 
+* **Example:** In pharmaceutical research, scientists often want to estimate the efficacy of a new drug. By calculating confidence intervals for the difference in treatment effects between the new drug and a placebo, they can quantify the uncertainty around the true treatment effect and determine whether the new drug is significantly more effective than the placebo.
+
 ## Normal Distribution
 
 The **normal distribution**, also known as the Gaussian distribution or bell curve, is a continuous probability distribution that is symmetric around the mean and characterized by its mean (*µ*) and standard deviation (*σ*). Many natural phenomena and sample statistics follow the normal distribution, making it an important concept in statistics and data science.
@@ -136,11 +150,15 @@ x_values = np.linspace(-5, 5, 100)
 pdf_values = stats.norm.pdf(x_values, loc=mean, scale=std_dev)
 ```
 
+* **Example:** In human resources, job performance evaluations often follow a normal distribution. HR managers can use this information to identify employees who fall below a certain performance threshold and implement performance improvement plans.
+
 ## Long-Tailed Distributions
 
 **Long-tailed distributions** are probability distributions with tails that extend farther than the tails of the normal distribution. They have more extreme values, or outliers, than would be expected in a normal distribution. Examples of long-tailed distributions include the exponential, Pareto, and log-normal distributions.
 
 When working with long-tailed distributions, data scientists should be cautious about using methods that rely on the normal distribution, such as the Central Limit Theorem and standard parametric tests. Nonparametric tests and robust statistics might be more appropriate in these cases.
+
+* **Example:** In risk management, insurance companies need to assess the likelihood of extreme events, such as natural disasters, which often follow long-tailed distributions. By modeling these events using appropriate long-tailed distributions, insurers can better estimate potential losses and set appropriate premiums.
 
 ## Student's t-Distribution
 
@@ -160,6 +178,8 @@ degrees_of_freedom = 10
 x_values = np.linspace(-5, 5, 100)
 pdf_values = stats.t.pdf(x_values, df=degrees_of_freedom)
 ```
+
+* **Example:** In psychology research, small sample sizes are often unavoidable due to practical constraints. When analyzing the effectiveness of a therapy method, researchers can use the t-distribution to compute confidence intervals and perform hypothesis tests, taking into account the small sample size and potential uncertainty in the population standard deviation.
 
 ## Summary
 
