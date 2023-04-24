@@ -124,6 +124,141 @@ Covariance is a measure of how much two variables change together. It indicates 
 covariance = np.cov(x, y)[0, 1]
 ```
 
+## Dealing with Missing Data and Outliers
+
+### Key Terms:
+
+- **_Missing Data_**: Data points that are not available or have not been recorded in the dataset.
+- **_Outliers_**: Data points that are significantly different from the rest of the dataset.
+
+Handling missing data and outliers is an important aspect of EDA. Missing data can lead to biased or incorrect results, while outliers can skew the data distribution and affect the performance of statistical models.
+
+### Missing Data
+
+Missing data can occur for various reasons, such as data entry errors, data corruption, or data not being collected for certain observations. Common techniques for handling missing data include:
+
+1. **_Listwise Deletion_**: Remove observations with missing data from the dataset.
+2. **_Imputation_**: Fill in missing values with estimated values, such as the mean, median, or mode of the variable, or by using more advanced techniques, like K-Nearest Neighbors (KNN) or regression-based imputation.
+
+```python
+import pandas as pd
+
+# Load dataset with missing values
+data = pd.read_csv('example_data.csv')
+
+# Listwise deletion
+data_clean = data.dropna()
+
+# Imputation with mean
+data_imputed = data.fillna(data.mean())
+```
+
+### Outliers
+
+Outliers are data points that significantly deviate from the rest of the dataset. They can be caused by errors, data corruption, or genuine extreme values. Detecting and handling outliers is essential for obtaining accurate and reliable results. Common methods for identifying outliers include:
+
+1. **_Standard Deviation Method_**: Identify data points that are more than a certain number of standard deviations away from the mean.
+2. **_IQR Method_**: Identify data points that are below the first quartile minus 1.5 * IQR or above the third quartile plus 1.5 * IQR.
+
+```python
+# Identify outliers using the IQR method
+Q1 = data.quantile(0.25)
+Q3 = data.quantile(0.75)
+IQR = Q3 - Q1
+
+outliers = ((data < (Q1 - 1.5 * IQR)) | (data > (Q3 + 1.5 * IQR))).any(axis=1)
+
+# Remove outliers
+data_no_outliers = data[~outliers]
+```
+
+## Multivariate Visualization Techniques
+
+### Key Terms:
+
+- **_Heatmap_**: A graphical representation of data where the individual values contained in a matrix are represented as colors.
+- **_Pair plot_**: A matrix of scatter plots that display the relationships between multiple variables in a dataset.
+
+Visualizing relationships between multiple variables can provide additional insights into the data structure and the interactions between variables.
+
+### Heatmaps
+
+Heatmaps are useful for visualizing the correlation matrix of a dataset. By representing the correlation coefficients as colors, we can easily identify strong positive or negative relationships between variables.
+
+```python
+import seaborn as sns
+
+# Compute the correlation matrix
+corr_matrix = data.corr()
+
+# Plot the heatmap
+sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
+plt.show()
+```
+
+### Pair Plots
+
+Pair plots display the relationships between multiple variables in a dataset by creating a matrix of scatter plots. This allows for the simultaneous examination of multiple pairwise relationships.
+
+```python
+# Create a pair plot
+sns.pairplot(data)
+plt.show()
+```
+
+## Data Transformation and Feature Scaling
+
+### Key Terms:
+
+- **_Data Transformation_**: The process of modifying the data to improve its distribution or relationship with other variables.
+- **_Feature Scaling_**: The process of standardizing the range of features in a dataset.
+
+Transforming the data and scaling features can be important steps in the data preprocessing process. These techniques can help to improve the performance of statistical models and machine learning algorithms, as well as enhance the interpretability of the results.
+
+### Data Transformation
+
+Data transformation involves modifying the data to improve its distribution or relationship with other variables. Common data transformations include:
+
+1. **_Log Transformation_**: Apply the natural logarithm to the data to reduce the impact of extreme values and improve the distribution of skewed data.
+2. **_Square Root Transformation_**: Apply the square root to the data to reduce the impact of extreme values and improve the distribution of moderately skewed data.
+3. **_Box-Cox Transformation_**: Apply a parametric power transformation that finds the optimal exponent to transform the data to a normal distribution.
+
+```python
+import numpy as np
+
+# Log transformation
+data_log = np.log(data)
+
+# Square root transformation
+data_sqrt = np.sqrt(data)
+
+# Box-Cox transformation
+from scipy import stats
+
+data_boxcox, lambda_param = stats.boxcox(data)
+```
+
+### Feature Scaling
+
+Feature scaling is the process of standardizing the range of features in a dataset. This can be particularly important for machine learning algorithms that are sensitive to the scale of the input features. Common feature scaling techniques include:
+
+1. **_Min-Max Scaling_**: Scale the features to a specific range, typically [0, 1], by subtracting the minimum value and dividing by the range of the data.
+2. **_Standard Scaling_**: Scale the features by subtracting the mean and dividing by the standard deviation, resulting in a dataset with zero mean and unit variance.
+
+```python
+from sklearn.preprocessing import MinMaxScaler, StandardScaler
+
+# Min-Max Scaling
+min_max_scaler = MinMaxScaler()
+data_minmax = min_max_scaler.fit_transform(data)
+
+# Standard Scaling
+standard_scaler = StandardScaler()
+data_standard = standard_scaler.fit_transform(data)
+```
+
+By employing the various techniques and methods discussed in this chapter, we can effectively explore, visualize, and preprocess our data, setting a strong foundation for subsequent steps in the data analysis process. This chapter has provided an overview of the essential concepts and tools for Exploratory Data Analysis, equipping you with the knowledge to dive deeper into the world of data science and perform more advanced analyses.
+
 ## Conclusion
 
 Exploratory Data Analysis (EDA) is a crucial step in the data analysis process. By employing various visualization techniques and summary statistics, we can gain insights into the structure of the data, identify patterns and relationships, and detect outliers or anomalies. In addition, EDA helps to inform subsequent steps in the data analysis process, such as model selection, feature engineering, and hypothesis testing.
