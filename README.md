@@ -142,7 +142,7 @@
 * [Chapter 1 - Exploratory Data Analysis](PracticalStatistics/Chapter1.md)
 * [Chapter 2 - Data and Sampling Distributions](PracticalStatistics/Chapter2.md)
 * [Chapter 3 - Statistical Experiments and Significance Testing](PracticalStatistics/Chapter3.md)
-* [Chapter 4 - ](PracticalStatistics/Chapter4.md)
+* [Chapter 4 - Regression and Prediction](PracticalStatistics/Chapter4.md)
 * [Chapter 5 - ](PracticalStatistics/Chapter5.md)
 * [Chapter 6 - ](PracticalStatistics/Chapter6.md)
 * [Chapter 7 - ](PracticalStatistics/Chapter7.md)
