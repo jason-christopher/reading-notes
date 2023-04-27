@@ -251,5 +251,3 @@ A transportation analyst has built a model to predict the travel time between tw
 ## Summary
 
 In summary, Chapter 4 of Practical Statistics for Data Scientists - Second Edition provides a comprehensive overview of regression and prediction techniques, including simple and multiple linear regression, polynomial regression, stepwise regression, ridge and lasso regression, generalized linear models, regression trees, model evaluation, and residual analysis. Understanding these concepts and techniques is essential for data scientists to build accurate and interpretable models for a wide range of prediction tasks.
-
-#
