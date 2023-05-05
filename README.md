@@ -136,6 +136,8 @@
 * [Chapter 4 - Fitting a Model to Data](DataScienceBusiness/Chapter4.md)
 * [Chapter 5 - Overfitting and Its Avoidance](DataScienceBusiness/Chapter5.md)
 * [Chapter 6 - Similarity, Neighbors, and Clusters](DataScienceBusiness/Chapter6.md)
+* [Chapter 7 - Data Exploration - A Key Step in the Data Science Process](DataScienceBusiness/Chapter7.md)
+* [Chapter 8 - Similarity, Neighbors, and Clusters](DataScienceBusiness/Chapter8.md)
 
 ## Practical Statistics for Data Scientists
 
