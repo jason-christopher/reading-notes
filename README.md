@@ -149,6 +149,10 @@
 * [Chapter 6 - ](PracticalStatistics/Chapter6.md)
 * [Chapter 7 - ](PracticalStatistics/Chapter7.md)
 
+## CompTIA Data+ Exam Prep
+
+* [Objective 1 - Data Concepts and Environments](CompTIA_Data_Plus/Obj1.md)
+
 ***
 
 ## About Me
