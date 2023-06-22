@@ -14,6 +14,18 @@ Non-relational databases, or NoSQL databases, are designed for specific data mod
 
 ### Data mart/data warehousing/data lake
 
+#### Data Mart
+
+A data mart is a subset of a data warehouse that is generally oriented to a specific business line or team. Whereas a data warehouse combines databases across an entire enterprise, data marts are usually smaller and focus on a particular subject or department. For instance, a company might have a data mart dedicated to finance, sales, or HR. These data marts would contain data specifically related to those departments.
+
+#### Data Warehousing
+
+A data warehouse is a system used for reporting and data analysis, and is considered a core component of business intelligence. Data warehouses are central repositories of integrated data from one or more disparate sources. They store current and historical data and are used for creating analytical reports for knowledge workers throughout the enterprise. The data stored in the warehouse is uploaded from the operational systems. The data may pass through an operational data store and may require data cleansing for additional operations to ensure data quality before it is used in the data warehouse for reporting. For instance, a data warehouse for a large retail chain might integrate data from various sources like point-of-sale systems, online sales, and supply chain management systems to give executives a comprehensive view of their business.
+
+#### Data Lake
+
+A data lake is a system or repository of data stored in its natural/raw format, usually object blobs or files. It's a place to store every type of data in its native format with no fixed limits on account size or file. It offers high data quantity to increase analytic performance and native integration. Unlike a hierarchical data warehouse which stores data in files or folders, a data lake uses a flat architecture to store data. An example of a data lake could be a Hadoop ecosystem storing diverse data, from log files and social media feeds to financial records, and the data could be structured, semi-structured, or unstructured. The main advantage of a data lake is the ability to store a vast amount of data at a low cost, and the flexibility of the types of data it can store.
+
 #### Online Transactional Processing (OLTP)
 
 Online transaction processing (OLTP) is a class of systems that supports or facilitates high transaction-oriented applications. OLTP systems are designed to efficiently process transactions in real time. An example of an OLTP system could be a hotel reservation system. When you book a room, the system checks whether a room is available, reserves the room, deducts the cost from your credit card, and confirms your reservation, all in real time.
@@ -34,15 +46,24 @@ The star schema is the simplest type of Data Warehouse schema. It is called a st
 
 ### Slowly Changing Dimensions
 
+Slowly changing dimensions (SCDs) are dimensions that change over time. The concept comes from data warehousing and describes how to version data that changes over time. There are multiple types of SCDs, with the most commonly used ones being SCD Type 1, SCD Type 2, and SCD Type 3.
+
+* Type 1: Overwrite
+  * In SCD Type 1, the new information simply overwrites the original information. In other words, no history is kept. This is often used when correcting errors in data. For example, if a customer's address is misspelled, you would overwrite the incorrect address with the correct one. This is equivalent to the "keep current information" approach you mentioned earlier.
+* Type 2: Add a new row
+  * SCD Type 2 means adding a new row to the table to represent new information. This way, the table keeps a history of the data. In the case of a changing dimension like a customer moving to a new address, a completely new row would be added for that customer with the new address. The old address is not removed, preserving a history of the addresses the customer has had.
+* Type 3: Add a new column
+  * In SCD Type 3, a new column is added to the table to track changes. For instance, if a customer moves, a "previous address" column could be added to the table, and the new address overwrites the current address. This method preserves some limited history but is not used as commonly as Type 1 and Type 2, as it only maintains the previous value.
+
+It's crucial to select the right SCD type based on the business requirement, as they offer different ways to track history and can significantly affect the size and complexity of your data warehouse.
+
 #### Keep Current Information
 
 In a dimension table, when changes occur in the original data source, and you want to overwrite that information in the table, it's a "keep current information" approach. For example, if a customer changes their home address, the new address replaces the old address in the table.
 
 #### Keep Historical and Current Information
 
-On the other hand, there are cases where preserving historical data
-
- is necessary. In such cases, a new record is added to the table to represent the new information, without discarding the old record. This way, the table keeps both historical and current information. For instance, when a product's price changes, rather than simply overwriting the old price, a new record is created with the new price and the date of the change.
+On the other hand, there are cases where preserving historical data is necessary. In such cases, a new record is added to the table to represent the new information, without discarding the old record. This way, the table keeps both historical and current information. For instance, when a product's price changes, rather than simply overwriting the old price, a new record is created with the new price and the date of the change.
 
 ---
 
@@ -60,7 +81,7 @@ Numeric data types store numeric values. These values can be integers (without d
 
 An Alphanumeric data type can include letters, numbers, and other characters typically found on a keyboard. They're used when the data to be stored is a mix of letters and numbers. For instance, a product ID, such as 'A123', would be stored as an Alphanumeric data type.
 
-## Currency
+### Currency
 
 The Currency data type is used to store monetary values. It's a type of numeric data type that represents a currency value. This data type is commonly used in business databases. For example, the 'revenue' column in a 'sales' table storing the revenue from each sale would be a Currency data type.
 
@@ -100,9 +121,7 @@ The Video data type is used to store video data. For example, a 'tutorial_video'
 
 ##### Defined rows/columns
 
-Data is organized in tables with defined rows and columns. Each row represents a unique record, and each column represents a field in the record. For example, an Excel spreadsheet that tracks employee attendance would have each row represent a different employee, and columns
-
- would represent different dates.
+Data is organized in tables with defined rows and columns. Each row represents a unique record, and each column represents a field in the record. For example, an Excel spreadsheet that tracks employee attendance would have each row represent a different employee, and columns would represent different dates.
 
 ##### Key-value pairs
 
